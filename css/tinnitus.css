@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Josefin+Sans&family=Yanone+Kaffeesatz:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Josefin+Sans&family=Yanone+Kaffeesatz:wght@300&display=swap');
+body{
+	background-image: url("taehyun.jpg")
+}
+h1{
+	font-family: 'DM Sans', sans-serif;
+	color: white;
+	text-align: center;
+}
+p{
+	color: #AD6AD9;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 18pt;
+}

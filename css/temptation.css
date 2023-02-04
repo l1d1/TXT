@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Dosis:wght@500&family=Indie+Flower&family=Itim&family=Josefin+Sans:wght@700&family=Lobster&family=Pacifico&family=Yanone+Kaffeesatz:wght@300&display=swap');
+body{
+	background-image: url("txt3.jpg");
+	background-size: 100vw; 
+}
+	h1{
+	font-family: 'Josefin Sans', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 25pt;
+	text-shadow: 1px 3px 3px #F20587;
+}
+p{
+	font-family: 'DM Sans', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 16pt;
+	text-shadow: 2px 3px 3px #F20587;
+}
